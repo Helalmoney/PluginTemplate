@@ -1,6 +1,6 @@
 #include "../plugin_sdk/plugin_sdk.hpp"
 
-PLUGIN_NAME( "Test plugin" );
+PLUGIN_NAME( "Miauzi" );
 
 PLUGIN_API bool on_sdk_load( plugin_sdk_core* plugin_sdk_good )
 {
