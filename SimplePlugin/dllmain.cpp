@@ -1,6 +1,6 @@
 #include "../plugin_sdk/plugin_sdk.hpp"
 
-PLUGIN_NAME( "Miauzi" );
+PLUGIN_NAME( "HelalTalon" );
 
 PLUGIN_API bool on_sdk_load( plugin_sdk_core* plugin_sdk_good )
 {
